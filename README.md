@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Dhanalakshmi (D)
 
-<!--
-**dhanalakshmikm25/dhanalakshmikm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GenAI / Python Engineer at Best Buy (AI and Personalization), building production LLM and
+RAG systems. MS in Computer Science from Central Michigan University (GPA 3.87). I like
+systems that hold up under real production traffic and models that are efficient enough
+to run without shipping user data anywhere.
 
-Here are some ideas to get you started:
+- Production experience with LangChain, LangGraph, RAG pipelines, and MCP integrations
+- Published researcher: compression trade-offs for the Model Context Protocol (Sensors, 2026)
+- Special Recognition, CMU Data Visualization Competition 2025
+- Michigan, USA - Open to relocation across the US
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
