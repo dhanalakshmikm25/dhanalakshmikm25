@@ -25,3 +25,7 @@ categorization, and reply suggestions. No email content ever leaves the user's m
 Full-stack MEAN app for managing patients, visits, and doctors, with diagnosis analytics
 and role-based access.
 `Angular` `Node.js` `Express` `MongoDB`
+**[Wastelens](https://github.com/dhanalakshmikm25/Wastelens)**
+Role-based web app for restaurant and kitchen teams to log and reduce food waste, with
+branch-level access control and reporting.
+`Python` `Streamlit` `MySQL`
