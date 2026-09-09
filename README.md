@@ -35,3 +35,8 @@ XGBoost), and hiring trend patterns over a ~1.5GB dataset.
 `PySpark` `Machine Learning` `Python`
 
 ---
+### Publication
+
+Vaidya, K. R., **Kannur Munirathnam, D.**, & Seeling, P. (2026). *Lossless compression for
+the Model Context Protocol: Energy consumption, latency, and bandwidth trade-offs.*
+Sensors, 26(14), 4582. [doi.org/10.3390/s26144582](https://doi.org/10.3390/s26144582)
