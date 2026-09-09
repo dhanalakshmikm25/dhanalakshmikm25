@@ -17,3 +17,7 @@ to run without shipping user data anywhere.
 Cloud-native microservices platform on AWS EKS with an in-cluster AI-Ops bot and a
 host-level MCP agent for self-healing SRE automation.
 `AWS EKS` `Kubernetes` `FastAPI` `MCP` `React`
+**[smart-email-assistant](https://github.com/dhanalakshmikm25/smart-email-assistant)**
+Privacy-preserving email client - on-device T5 + LoRA fine-tuning for thread summarization,
+categorization, and reply suggestions. No email content ever leaves the user's machine.
+`React` `TypeScript` `FastAPI` `LoRA/PEFT` `Docker`
