@@ -29,3 +29,9 @@ and role-based access.
 Role-based web app for restaurant and kitchen teams to log and reduce food waste, with
 branch-level access control and reporting.
 `Python` `Streamlit` `MySQL`
+**[big-data-job-description-analysis](https://github.com/dhanalakshmikm25/big-data-job-description-analysis)**
+PySpark analysis of 13,000+ job postings - skill demand, salary prediction (Random Forest,
+XGBoost), and hiring trend patterns over a ~1.5GB dataset.
+`PySpark` `Machine Learning` `Python`
+
+---
