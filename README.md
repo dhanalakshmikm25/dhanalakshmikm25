@@ -11,3 +11,9 @@ to run without shipping user data anywhere.
 - Michigan, USA - Open to relocation across the US
 
 ---
+### Featured projects
+
+**[cloud-shoplite](https://github.com/dhanalakshmikm25/cloud-shoplite)**
+Cloud-native microservices platform on AWS EKS with an in-cluster AI-Ops bot and a
+host-level MCP agent for self-healing SRE automation.
+`AWS EKS` `Kubernetes` `FastAPI` `MCP` `React`
