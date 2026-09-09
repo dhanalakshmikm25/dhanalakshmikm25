@@ -40,3 +40,17 @@ XGBoost), and hiring trend patterns over a ~1.5GB dataset.
 Vaidya, K. R., **Kannur Munirathnam, D.**, & Seeling, P. (2026). *Lossless compression for
 the Model Context Protocol: Energy consumption, latency, and bandwidth trade-offs.*
 Sensors, 26(14), 4582. [doi.org/10.3390/s26144582](https://doi.org/10.3390/s26144582)
+---
+### Tech stack
+
+**Languages** Python · TypeScript · Java · SQL
+**GenAI / LLM** LangChain · LangGraph · MCP · RAG pipelines · prompt engineering · LoRA/PEFT fine-tuning
+**Vector / retrieval** Pinecone · FAISS · ChromaDB · Weaviate
+**Backend** FastAPI · Flask · Node.js/Express · Spring Boot
+**ML foundations** PyTorch · TensorFlow · scikit-learn · MLflow
+**Cloud/DevOps** AWS (EKS, RDS, CloudWatch) · GCP (Vertex AI) · Docker · Kubernetes · GitHub Actions/Jenkins CI/CD
+
+**Certifications** Introduction to MCP (Anthropic) · OCI Generative AI Professional · NVIDIA Deep Learning Fundamentals · AWS Academy Cloud Foundations
+
+---
+[LinkedIn](https://linkedin.com/in/dhanalakshmikm) · [Portfolio](https://dhanalakshmi-portfolio-iota.vercel.app)
