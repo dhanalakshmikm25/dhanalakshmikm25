@@ -21,3 +21,7 @@ host-level MCP agent for self-healing SRE automation.
 Privacy-preserving email client - on-device T5 + LoRA fine-tuning for thread summarization,
 categorization, and reply suggestions. No email content ever leaves the user's machine.
 `React` `TypeScript` `FastAPI` `LoRA/PEFT` `Docker`
+**[patient-health-records](https://github.com/dhanalakshmikm25/patient-health-records)**
+Full-stack MEAN app for managing patients, visits, and doctors, with diagnosis analytics
+and role-based access.
+`Angular` `Node.js` `Express` `MongoDB`
